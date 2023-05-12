@@ -1,0 +1,9 @@
+.table-form {
+  padding: 10px;
+  background-color: bisque;
+  height: 70%;
+  width: 80%;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px #333;
+}
